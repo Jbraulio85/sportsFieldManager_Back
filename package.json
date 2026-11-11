@@ -23,7 +23,7 @@
     "helmet": "^7.1.0",
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.8.0",
-    "mongoose": "^8.22.1",
+    "mongoose": "^8.24.7",
     "morgan": "^1.12.1",
     "multer": "^2.4.0",
     "multer-storage-cloudinary": "^4.0.0"
@@ -60,7 +60,7 @@
       "undici": ">=6.23.0",
       "tar": ">=7.5.7",
       "diff": ">=4.0.4",
-      "mongoose": "^8.22.1",
+      "mongoose": "^8.24.7",
       "swiper": ">=12.1.2",
       "ajv": ">=8.18.0",
       "cross-spawn": ">=7.0.5",
